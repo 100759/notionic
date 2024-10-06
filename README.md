@@ -9,19 +9,6 @@ Notionic is a static blog that updates in real time, synchronizing changes to No
 - Notionic: [https://notionic.vercel.app](https://notionic.vercel.app)
 - My Blog: [https://zuolan.me](https://zuolan.me)
 
-## Features
-
-- Incremental static regeneration
-- Outline
-- Theme switch
-- Multi-language
-- Native style comments
-- Loading and transition animation
-- Block page support
-- SEO and Open Graph optimization
-- Newsletter support
-- Contact Form
-- Telegram bot integration
 
 ## Quick Start
 
